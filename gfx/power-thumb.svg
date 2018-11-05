@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="250"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   inkscape:export-filename="/home/kenneth/acclaim/power-thumb-1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="power-thumb.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3622">
+      <stop
+         style="stop-color:#223344;stop-opacity:1;"
+         offset="0"
+         id="stop3624" />
+      <stop
+         style="stop-color:#223344;stop-opacity:0;"
+         offset="1"
+         id="stop3626" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 125 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="250 : 125 : 1"
+       inkscape:persp3d-origin="125 : 83.333333 : 1"
+       id="perspective2830" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3622"
+       id="linearGradient3630"
+       x1="125"
+       y1="-2.1500001"
+       x2="252.14999"
+       y2="282.68481"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="262.39804"
+     inkscape:cy="63.807593"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1276"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient3630);fill-opacity:1;stroke:#c5c5c5;stroke-width:6.29999999999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 26,1 C 12.15,1 1,12.15 1,26 l 0,198 c 0,13.85 11.15,25 25,25 l 198,0 c 13.85,0 25,-11.15 25,-25 L 249,26 C 249,12.15 237.85,1 224,1 l -52.04187,0 -35.03125,59.3125 31.6875,12.21875 -37.46875,50.4375 23.78125,7.9375 -57.933637,81.40625 23.781247,-70.59375 -26.656247,-7.9375 17.999997,-45.375 -33.874997,-15.875 19.46875,-71.3125 C 74.510355,1.21875 38.849296,1 26,1 z"
+       id="rect2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssscccccccccccc"
+       inkscape:export-filename="D:\Projects\Workspace\ThunderChaser\res\drawable-mdpi\icon.png"
+       inkscape:export-xdpi="16.98781"
+       inkscape:export-ydpi="16.98781" />
+    <path
+       style="fill:#ffa000;fill-opacity:1;stroke:#f1950b;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 104.09984,198.21024 c 0,-0.15262 4.33123,-13.137 9.62495,-28.85417 5.29372,-15.71716 9.62497,-28.69393 9.625,-28.83726 3e-5,-0.14332 -5.82183,-1.98833 -12.93745,-4.10003 -7.11563,-2.11169 -13.034233,-3.9249 -13.15246,-4.02936 -0.118226,-0.10446 3.79146,-10.28727 8.68819,-22.62845 4.89673,-12.341189 8.87471,-22.457836 8.83996,-22.481441 -0.0348,-0.02361 -7.60069,-3.564943 -16.813192,-7.86964 -9.2125,-4.304698 -16.841397,-7.907718 -16.953105,-8.00671 -0.162001,-0.14356 19.145887,-71.64989062 19.420917,-71.92491825 0.0416,-0.0415828 15.78314,-0.0470868 34.98124,-0.0122311 l 34.90564,0.063374 -18.232,30.87035035 c -10.02759,16.978692 -18.15115,30.94072 -18.05234,31.026727 0.0988,0.08601 7.09076,2.817968 15.53768,6.071015 8.44692,3.25305 15.40283,5.95944 15.4576,6.0142 0.0548,0.05476 -8.2891,11.387398 -18.54191,25.183638 -10.25281,13.796236 -18.6431,25.159066 -18.6451,25.250736 -0.002,0.0917 5.31884,1.94792 11.82407,4.125 l 11.82768,3.95833 -23.52054,33.04703 c -12.9363,18.17586 -23.60251,33.12898 -23.70269,33.22916 -0.10018,0.10018 -0.18214,0.0573 -0.18214,-0.0953 z"
+       id="path3634"
+       inkscape:export-filename="D:\Projects\Workspace\ThunderChaser\res\drawable-mdpi\icon.png"
+       inkscape:export-xdpi="16.98781"
+       inkscape:export-ydpi="16.98781" />
+  </g>
+</svg>

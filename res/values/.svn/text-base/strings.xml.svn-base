@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ThunderChaserActivity!</string>
+    <string name="app_name">Thunder Chaser</string>
+    <string name="tap_bolt_see">Tap bolt when you see it...</string>
+    <string name="tap_bolt_hear">...tap it again when you hear thunder</string>
+    <string name="temperature">Temperature (Celsius)</string>
+    <string name="temperature_summary">In the Earth\'s atmosphere it is the most important factor affecting the speed of sound.</string>
+    
+    <string name ="km">km</string>
+    <string name="mile">mile</string>
+    
+    <string-array name="distance_units">
+        <item>@string/km</item>
+        <item>@string/mile</item>
+    </string-array>
+    
+    
+    <string name="distance_unit">Distance unit</string>
+    <string name="distance_unit_summary">Display distance in desired unit</string>
+    <string name="configuration">Configuration</string>
+</resources>
